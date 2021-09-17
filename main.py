@@ -45,7 +45,6 @@ def low_virus():
 	print("")
 	slowprint('''Don't Use This App For Any Kind Of illegal Activites''')
 
-
 print('''
  ██████╗██████╗  █████╗  ██████╗██╗  ██╗██╗  ██╗
 ██╔════╝██╔══██╗██╔══██╗██╔════╝██║ ██╔╝╚██╗██╔╝
@@ -56,19 +55,21 @@ print('''
                                             ''')
 print("")
 print("The Best Virus Tool Maded By King-Nazim")
+print("Helped by Sulthan And Mishal")
 print("----------------------------------------")
 print("Be legal")
 print("----------------------------------------")
 print("")
 print("[1]High Power Virus")
 print("[2]Low Power Virus")
+print("")
 choos = input("Enter Your Option--->")
 
 if choos == '1':
         power_virus()
 if choos == '2':
         low_virus()
-else:print("Invalid Option")
+else:print("")
 
 
 
