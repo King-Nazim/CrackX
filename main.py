@@ -62,7 +62,7 @@ print('''
 \033[1;31m ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝\033[0m
                                             ''')
 print("")
-print("\033[4;33mm The Best Virus Tool Maded By King-Nazim\033[0;00m")
+print("\033[4;33mThe Best Virus Tool Maded By King-Nazim\033[0;00m")
 print("\033[1;5;31m Helped By Sulthan And Mishal\033[0;0;00m")
 print("")
 print("\033[1;35m----------------------------------------\033[0;00m")
